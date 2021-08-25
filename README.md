@@ -1,4 +1,4 @@
-# image
+# images
 
 #### 介绍
 图床
